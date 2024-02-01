@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
+@font-face {
+    font-family: "Westgate-Semibold";
+    src: url("./src/assets/fonts/Westgate-Semibold.ttf") format("truetype");
+  }
 @tailwind utilities;
+
+@font-face { 
+    font-family: "pop"; 
+    src: url("../public/assets/pop.ttf"); 
+} 
