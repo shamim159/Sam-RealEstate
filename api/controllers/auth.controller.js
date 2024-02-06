@@ -16,4 +16,4 @@ export const signup = async (req, res, next) => {
 };
 
 
-////this doc is for user interface res.status(500).json(error.message);
+////this doc is for user interface 
