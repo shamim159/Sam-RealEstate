@@ -6,6 +6,10 @@
   }
 @tailwind utilities;
 
+body{
+  background-color: rgb(241,245,241) ;
+}
+
 @font-face { 
     font-family: "pop"; 
     src: url("../public/assets/pop.ttf"); 
